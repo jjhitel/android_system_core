@@ -58,5 +58,11 @@
     {
       "name": "ziparchive-tests"
     }
+  ],
+
+  "postsubmit": [
+    {
+      "name": "ziparchive_tests_large"
+    }
   ]
 }
